@@ -2,7 +2,8 @@
 
 import unittest
 import random
-import test_processing as tp
+# 오타 수정 test_processsing -> text_processing
+import text_processing as tp
 
 
 class TestTextProcessing(unittest.TestCase):
